@@ -1,14 +1,10 @@
 # AcousticAnomalyDetection
 
 This project offers a **machine learning** (ML) solution for **acoustic anomaly detection** (AAD) in electric motors.
-
 A support vector machine (SVM) model was built to identify faulty or dangerous behaviour of a drop saw.
 
-
 The model is trained on a original dataset of saw cut audio recordings.
-
 A custom feature extraction program was built to develop the ML dataset.
-
 
 Project work was done as part of my Masters thesis, submitted October 2023.  
 
