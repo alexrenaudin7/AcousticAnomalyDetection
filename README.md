@@ -13,6 +13,8 @@ Repository includes:
  - **SVM.py:** SVM machine learning model program
  - **dataset.csv:** An instance of the feature extraction program output dataset
  - **/audio:** Original audio recordings (pre-processed to 1s each)
- - **/reporting:**  Poster providing a project overview + a copy of the full thesis
+ - **/Reporting:**  Poster providing a project overview + a copy of the full thesis
+
+*Note the audio is in .zip format and needs to be extracted before use*
 
 [Poster - Machine Learning for Acoustic Anomaly Detection.pdf](https://github.com/alexrenaudin7/AcousticAnomalyDetection/files/13211647/Poster.-.Machine.Learning.for.Acoustic.Anomaly.Detection.pdf)
