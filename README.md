@@ -14,3 +14,5 @@ Repository includes:
  - SVM machine learning model program
  - Poster providing an overview of project work
  - A copy of my full thesis
+
+[Poster - Machine Learning for Acoustic Anomaly Detection.pdf](https://github.com/alexrenaudin7/AcousticAnomalyDetection/files/13211647/Poster.-.Machine.Learning.for.Acoustic.Anomaly.Detection.pdf)
